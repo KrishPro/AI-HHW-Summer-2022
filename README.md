@@ -739,7 +739,7 @@ print("We can see sun hours are in upward trend")
     We can see sun hours are in upward trend
 
 
-![image.png](attachment:image.png)
+![image.png](Assets/uv-index.png)
 
 
 ```python
