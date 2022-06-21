@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import json
 
-with open('Data/2022-06-01_to_2022-06-15.json') as file:
+with open('Data/detailed.json') as file:
     data = json.load(file)
 ```
 

@@ -83,7 +83,7 @@ def main(args: argparse.Namespace):
     
     # Creating file_path
     file_dir = args.output_dir
-    file_name = f'{args.start_date}_to_{args.end_date}.json'
+    file_name = f'detailed.json'
     file_path = os.path.join(file_dir, file_name)
 
     # Making sure that the file_dir exists
