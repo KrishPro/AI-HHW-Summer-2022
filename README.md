@@ -1,4 +1,4 @@
-[Github](https://github.com/KrishPro) · [Codebase](https://github.com/KrishPro/AI-HHW-Summer-2022)
+[Github](https://github.com/KrishPro) | [Codebase](https://github.com/KrishPro/AI-HHW-Summer-2022)
 
 
 ```python
